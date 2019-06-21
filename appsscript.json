@@ -6,7 +6,7 @@
       "logoUrl": "https://cdnasset.rankwatch.com/image/rankwatch_logo_128.png",
       "addonUrl": "https://www.rankwatch.com/gds-connector",
       "supportUrl": "https://github.com/rankwatch/gds-project-keyword-ranks/issues",
-      "sources": [],
+      "sources": ['RANKWATCH'],
       "description": "This connector will allow you to view latest ranking for keywords added in your project.",
       "shortDescription": "Get Latest Ranks for your keywords directly from RankWatch!",
       "authType": ["USER_PASS"]
